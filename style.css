@@ -1,0 +1,22 @@
+[paso="1"]
+{
+    background: red;
+}
+[paso="2"]
+{
+    background: orangered;
+}
+[paso="3"]
+{
+    background: orange;
+}
+[paso="4"]
+{
+    background: green;
+}
+.tabla{
+    border:2px solid black;
+    border-collapse: separate;
+}
+tr{border:2px solid black}
+td{border:2px solid black}
